@@ -1,8 +1,9 @@
 <html>
  <head>
-  <title>Prueba de PHP</title>
  </head>
  <body>
- <?php echo '<p>Hola Mundo</p>';?>
+ <?php
+$prueba=fopen("text.txt","r")
+echo '<p>$prueba</p>';?>
  </body>
 </html>

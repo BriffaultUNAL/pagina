@@ -1,6 +1,5 @@
 <html>
     <head>
-        <title>Basics of HTML demo</title>
     </head>
     <body>
         <p>Secret value is <b>8250522</b>.</p>

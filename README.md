@@ -1,11 +1,8 @@
-<!DOCTYPE html>
 <html>
-    <head>
-        <title>Ejemplo</title>
-    </head>
-    <body>
-        <?php
-            echo "¡Hola, soy un script de PHP!";
-        ?>
-    </body>
+ <head>
+  <title>Prueba de PHP</title>
+ </head>
+ <body>
+ <?php echo '<p>Hola Mundo</p>'; ?>
+ </body>
 </html>

@@ -1,10 +1,13 @@
+<!DOCTYPE html>
 <html>
     <head>
+        <title>Ejemplo</title>
     </head>
     <body>
-        <p>Secret value is <b>8250522</b>.</p>
-        <p>
-            <a href="text.txt"></a>
-        </p>
+
+        <?php
+            echo "¡Hola, soy un script de PHP!";
+        ?>
+
     </body>
 </html>
